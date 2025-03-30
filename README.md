@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @RameshRaveendran
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 RameshRaveendran/RameshRaveendran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
